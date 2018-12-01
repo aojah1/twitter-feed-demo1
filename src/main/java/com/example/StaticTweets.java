@@ -64,8 +64,6 @@ public class StaticTweets {
 
 
     }
-
-
 	@Path("color")
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
